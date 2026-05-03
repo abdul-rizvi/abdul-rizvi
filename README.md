@@ -1,30 +1,47 @@
 # Hi there, I'm Abdur Rahman! 👋
 
-I'm a third-semester **Computer Engineering Student** passionate about building software and understanding how computers work under the hood.
+**Computer Engineering Undergraduate | Full-Stack Developer**
+
+I am a second-year Computer Engineering student at the University of Peradeniya. I specialize in building scalable web applications and have a strong foundation in both high-level software architecture and low-level system memory manipulation. 
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 **I’m currently working on:** A major 2-year software project with my group, **Bug Slayer**.
-- 🌱 **I’m currently learning:** Full-stack Web Development (Django, SQL) and Advanced C (Memory management & Pointers).
-- 📱 **Recent Projects:** I recently built a fully functional **iPhone Calculator Clone** using HTML, CSS, and JS.
-- ⚡ **Interests:** I enjoy bridging the gap between high-level web applications and low-level system memory manipulation.
+- 🎓 **Education:** Currently pursuing my undergraduate degree in Computer Engineering.
+- 🔭 **Current Focus:** Leading the **Bug Slayer** project group, currently developing an Integrated Management System for a Computer Vision and AI Research Laboratory.
+- 🚀 **Recent Launch:** Built and deployed **apointto.com**, a professional salon booking web application.
+- 🌱 **Tech Evolution:** Focused on modern full-stack development with a **Node.js, Express.js, and React** architecture, alongside robust database management and cloud deployment.
+- ⚡ **Interests:** Bridging the gap between complex backend systems, efficient data operations, and clean user interfaces.
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Tech Stack & Tools
 
+**Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+**Frontend & Backend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+**Database & DevOps**
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🚀 Highlighted Projects
+
+*   **Integrated Lab Management System:** Leading the architecture and development of a comprehensive management system for an AI and Computer Vision research lab, handling resources like drone fleet bookings. 
+*   **apointto.com:** Deployed a fully functional, search-indexed salon booking platform.
+*   **Algorithmic Implementations:** Developed custom Python solutions for academic projects, including hospital ER priority systems and heapsort algorithms.
 
 ---
 
