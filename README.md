@@ -47,4 +47,4 @@ I am a second-year Computer Engineering student at the University of Peradeniya.
 
 ### 📈 GitHub Stats
 
-![Abdur's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-rizvi&show_icons=true&theme=radical)
+![Abdur's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=abdul-rizvi&theme=radical&hide_border=true)
